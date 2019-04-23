@@ -5,8 +5,8 @@ The dataset contains web scraped data of 10k Play Store apps for analysing the A
 It contains the first 'most relevant' 100 reviews for each app. Each review text/comment has been pre-processed and 
 attributed with 3 new features - Sentiment, Sentiment Polarity and Sentiment Subjectivity.
 The Dataset has 64.3K instances.More details of the dataset can be found in the kaggle website.
-[https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore_user_reviews.csv]
-(https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore_user_reviews.csv) 
+[https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore_user_reviews.csv](https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore_user_reviews.csv) 
+
 
 ## Install
 This project requires python 3.6 or any other higher versions of python, along with these libraries
