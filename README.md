@@ -37,7 +37,7 @@ The dataset contains the following features:
 * Sentiment Subject - Sentiment subjectivity score
 
 ## Input 
-* Translated_reviews - User review (Preprocessed and translated to English)
+Translated_reviews - User review (Preprocessed and translated to English)
 
 ## Desired Target
 Sentiment - Positive/Negative/Neutral
