@@ -1,5 +1,13 @@
 # Sentimental Analysis on Google Play Store App's reviews
 
+## Sentimental Analysis
+It is the most common text classification tool that analyses an incoming message and tells whether the underlying sentiment is positive, negative our neutral.
+Sentimental Analysis is carried out using a bag of words.To generate it we need to do some data pre-processing using nlp.The steps to be taken are:
+* Tokenization
+* Remove Stopwords
+* Lemmatization/Stemming
+* Vectorization
+
 ## Dataset
 The dataset contains web scraped data of 10k Play Store apps for analysing the Android market.
 It contains the first 'most relevant' 100 reviews for each app. Each review text/comment has been pre-processed and 
@@ -27,6 +35,9 @@ The dataset contains the following features:
 * Sentiment - Positive/Negative/Neutral (Preprocessed)
 * Sentiment Polarity - Sentiment polarity score
 * Sentiment Subject - Sentiment subjectivity score
+
+## Input 
+* Translated_reviews - User review (Preprocessed and translated to English)
 
 ## Desired Target
 Sentiment - Positive/Negative/Neutral
